@@ -1,2 +1,2 @@
 # DAW_2017-2018
-Soluciones a las actividades entregadas por los alumnos
+Proyectos de ejemplo de las clases, soluciones a actividades, actividades entregadas
